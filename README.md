@@ -13,10 +13,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-its&show_icons=true&theme=react" alt="Mits"/> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
+<a href="https://github.com/M-its">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-its&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=react"/>
+</a>
 
 
 <!--
