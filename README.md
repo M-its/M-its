@@ -1,9 +1,7 @@
 ## Oiii! Eu sou a Mitsrael Souza
 <a href="https://github.com/M-its">
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-its&show_icons=true&theme=react"/>
-</a>
-<a href="https://github.com/M-its">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=react"/>
+  <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-its&show_icons=true&theme=react"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=react"/>
 </a>
 
 <div style="display: inline_block"><br>
