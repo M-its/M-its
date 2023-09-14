@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Mitsrael Souza
+## Oi! Eu sou o Mitsrael Souza
 <a href="https://github.com/M-its"></a>
   <img align="center" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-its&show_icons=true&theme=react"/>
   <img align="center" height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=react"/>
